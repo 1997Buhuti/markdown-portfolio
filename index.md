@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
-{% include 02-image.md %}
+![Image of Manakal The Great](https://drive.google.com/file/d/1CYDjAzTL71XeSb6AHE43eswy17OD-cGm/view?usp=sharing)
 
 <br>
 
-{% include 03-links.md %}
+![Image of Manakal The Great](https://drive.google.com/file/d/1CYDjAzTL71XeSb6AHE43eswy17OD-cGm/view?usp=sharing)
 
